@@ -1,6 +1,8 @@
 <h1 align='center'>GitHub Stats Terminal Style</h1>
 <p align='center'>Dynamically generate GitHub stats looking like a Terminal Interface </p>
 
+[中文版](README_CN.md)请点击此处
+
 <p align="center" >
   <a href="https://github.com/qichenxiaoni/Github-Stats-Terminal/actions/workflows/main.yml">
     <img src="https://github.com/qichenxiaoni/Github-Stats-Terminal/actions/workflows/main.yml/badge.svg" alt="Update Github Stats" title="Terminal Style GitHub Stats">
